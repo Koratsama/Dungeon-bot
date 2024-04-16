@@ -1,7 +1,7 @@
 //discord client for event handling
 const { discordClient } = require('./ClientConfig');
-const { scramble } = require('../../util/MessageScrambler');
-const { rollDice } = require('../../dnd/dice/DiceRoller');
+const { scramble } = require('../util/MessageScrambler');
+const { rollDice } = require('../dnd/dice/DiceRoller');
 
 var diceRegex = /(\d+)d(\d+)/;
 
