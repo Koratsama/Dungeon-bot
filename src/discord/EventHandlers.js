@@ -7,8 +7,13 @@ discordClient.on('ready', (c) => {
 });
 
 discordClient.on('messageCreate', async (message) => {
-  const userMessageLower = message?.content?.toLowerCase();
-  const response = scramble(userMessageLower);
+  if (
+    message.guild !== null &&
+    (message.author.id != '1229569899853123584' || message.author.displayName != 'dungeon-bot')
+  ) {
+    const userMessageLower = message?.content?.toLowerCase();
+    const response = scramble(userMessageLower);
 
-  message.reply("Sorry, what was that? all I heard was ', " + response + "'.");
+    message.reply("Sorry, what was that? all I heard was '" + response + "'.");
+  }
 });
