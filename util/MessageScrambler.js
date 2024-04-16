@@ -13,8 +13,3 @@ exports.scramble = (str) => {
   // Join the shuffled characters back into a string and return it
   return chars.join('');
 };
-
-// Example usage:
-// var myString = 'Hello, world!';
-// var scrambledString = scramble(myString);
-// console.log(scrambledString);
