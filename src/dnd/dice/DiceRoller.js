@@ -24,7 +24,7 @@ exports.rollDice = (diceString) => {
   if (numDice === 1) {
     resultString = `Result: ${total}`;
   } else {
-    resultString = `Result: ${results.join(' + ')} = ${total}`;
+    resultString = `Result: ( ${results.join(' + ')} ) = ${total}`;
   }
 
   return resultString;

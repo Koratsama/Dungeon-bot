@@ -20,7 +20,7 @@ discordClient.on('messageCreate', async (message) => {
       const result = rollDice(dice);
       result === ''
         ? message.reply('Number of dice/sides must be between 1 and 20.')
-        : message.reply('You rolled ' + dice + '! ' + '\n' + result);
+        : message.reply('Rolling ' + dice + '... ' + '\n' + result);
     }
   }
 });
