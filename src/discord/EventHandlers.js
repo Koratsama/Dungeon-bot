@@ -2,6 +2,7 @@
 const { discordClient } = require('./ClientConfig');
 const { scramble } = require('../util/MessageScrambler');
 const { rollDice } = require('../dnd/dice/DiceRoller');
+const { tarotReading } = require('../dnd/tarot/TarotReader');
 
 var diceRegex = /(\d+)d(\d+)/;
 
@@ -21,6 +22,10 @@ discordClient.on('messageCreate', async (message) => {
       result === ''
         ? message.reply('Number of dice/sides must be between 1 and 20.')
         : message.reply('Rolling ' + dice + '... ' + '\n' + result);
+    }
+
+    if (userMsg.includes('tarot please')) {
+      message.reply(tarotReading());
     }
   }
 });
