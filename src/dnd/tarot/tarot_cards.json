@@ -163,5 +163,225 @@
       "short": "It is the fall that injures you.",
       "long": "Everything declines. You walk through the heart of Ruin on all sides. All feels lost to Corruption. But walk on. There is a rebuilding after the collapse."
     }
+  },
+  {
+    "name": "Strength",
+    "alternateName": "none",
+    "core": "Power",
+    "subtric": "Control",
+    "type": "minor",
+    "description": {
+      "short": "Shape and direct your surroundings.",
+      "long": "You use Strength to impose a new plan. You exert Control through intuition and the means at your disposal. The strong make themselves potential targets, include others int he process."
+    }
+  },
+  {
+    "name": "Intention",
+    "alternateName": "none",
+    "core": "Power",
+    "subtric": "Control",
+    "type": "minor",
+    "description": {
+      "short": "What do you want, and why?",
+      "long": "What will you do with the Control you wield? To what end are you working towards? What is the Intention of your actions? Without direction we cannot help but be misunderstood."
+    }
+  },
+  {
+    "name": "Form",
+    "alternateName": "none",
+    "core": "Power",
+    "subtric": "Chaos",
+    "type": "minor",
+    "description": {
+      "short": "Execute the plans you have made",
+      "long": "Within the storm of Chaos, a Form awaits to be discovered. You create the universe into being by freeing the figure of it from the block of stone. It is time to move on the plans you've been making."
+    }
+  },
+  {
+    "name": "Fracture",
+    "alternateName": "none",
+    "core": "Power",
+    "subtric": "Chaos",
+    "type": "minor",
+    "description": {
+      "short": "What you have can break apart.",
+      "long": "The center does not hold. You have given in to Chaos. Your plans begin to Fracture and drift. You are aimless. Fill your broken edges with gold and bear the pieces away."
+    }
+  },
+  {
+    "name": "Solidarity",
+    "alternateName": "none",
+    "core": "Unity",
+    "subtric": "Harmony",
+    "type": "minor",
+    "description": {
+      "short": "Strength within the collective.",
+      "long": "It often takes Solidarity within a group to achieve a goal. Allow yourself to find this Harmony with others so that you may attain your true purpose."
+    }
+  },
+  {
+    "name": "Solitude",
+    "alternateName": "none",
+    "core": "Unity",
+    "subtric": "Harmony",
+    "type": "minor",
+    "description": {
+      "short": "Personal truth may set others free.",
+      "long": "Being in Solitude can open the eyes. It can cause you to see the world of others in a new light. Find Harmony within yourself. Bring that truth back to the collective."
+    }
+  },
+  {
+    "name": "Disorder",
+    "alternateName": "none",
+    "core": "Unity",
+    "subtric": "Dissonance",
+    "type": "minor",
+    "description": {
+      "short": "It is time to push against order.",
+      "long": "Ignore the rules. Being a force of Disorder causes the universe to realign, to take the Dissonance, and make harmony with you. Kick against those that would quiet you."
+    }
+  },
+  {
+    "name": "Symmetry",
+    "alternateName": "none",
+    "core": "Unity",
+    "subtric": "Dissonance",
+    "type": "minor",
+    "description": {
+      "short": "There is always a third way.",
+      "long": "A coin spins in perfect Symmetry. What side it lands on is less important than making the guess. The Dissonance of taking a leap without seeing the landing is where the answer lies."
+    }
+  },
+  {
+    "name": "Inertia",
+    "alternateName": "none",
+    "core": "Transition",
+    "subtric": "Motion",
+    "type": "minor",
+    "description": {
+      "short": "Speed is exhilarating and tiring.",
+      "long": "When Motion becomes the norm, Inertia creeps in. Be careful to not overshoot your goal post or leave too many waves in your wake. It is easy to forget to slow down."
+    }
+  },
+  {
+    "name": "Momentum",
+    "alternateName": "none",
+    "core": "Transition",
+    "subtric": "Motion",
+    "type": "minor",
+    "description": {
+      "short": "Your choices are pushing you forward.",
+      "long": "You've exploded prospects and shot forward with Motion. There is no stopping your growing Momentum. At these speeds, it becomes easy to ignore others and their needs."
+    }
+  },
+  {
+    "name": "Direction",
+    "alternateName": "none",
+    "core": "Transition",
+    "subtric": "Stagnation",
+    "type": "minor",
+    "description": {
+      "short": "The time for debate is over.",
+      "long": "Avoid Stagnation. Point yourself in a singular Direction and go forth. This is your northstar. Singular thought may drive your process, but allow for deviations as needed."
+    }
+  },
+  {
+    "name": "Moor",
+    "alternateName": "none",
+    "core": "Transition",
+    "subtric": "Stagnation",
+    "type": "minor",
+    "description": {
+      "short": "Lack of motivation will stick you in place.",
+      "long": "Expectations Moor you in place. The weight of everything has buried you. Look around. This is an illusion of Stagnation. You can create multitudes with what you have."
+    }
+  },
+  {
+    "name": "Innocence",
+    "alternateName": "none",
+    "core": "Mystery",
+    "subtric": "Wonder",
+    "type": "minor",
+    "description": {
+      "short": "Weakness can be strength.",
+      "long": "Your Wonder pierces veils, brings insight, shatters propriety and conformity. Do not let anyone mistake your Innocence for weakness. Be a child. See with new eyes."
+    }
+  },
+  {
+    "name": "Inevitability",
+    "alternateName": "none",
+    "core": "Mystery",
+    "subtric": "Wonder",
+    "type": "minor",
+    "description": {
+      "short": "The ending isn't told yet.",
+      "long": "Wonder often gives way to weariness and inevitibility. Things feel like stops along a predetermined route. Get off at the right stop. Find a new ride. But do not be naive about the time you have."
+    }
+  },
+  {
+    "name": "Potential",
+    "alternateName": "none",
+    "core": "Mystery",
+    "subtric": "Expectation",
+    "type": "minor",
+    "description": {
+      "short": "Everything is within your grasp.",
+      "long": "Your Potential spreads out to seize the strings of fate. There is pressure to meet Expectation but the future is not locked in place. You have endless dreams, do not lose sight of them."
+    }
+  },
+  {
+    "name": "Perspective",
+    "alternateName": "none",
+    "core": "Mystery",
+    "subtric": "Expectation.",
+    "type": "minor",
+    "description": {
+      "short": "Look at things through a different door.",
+      "long": "The Expectation of choosing the right path has clouded your judement. You are holding up the line. Find Perspective. Doors go both ways. You have keys to them all."
+    }
+  },
+  {
+    "name": "Abstraction",
+    "alternateName": "none",
+    "core": "Creation",
+    "subtric": "Shape",
+    "type": "minor",
+    "description": {
+      "short": "The present causes what is next.",
+      "long": "The future often takes Shape from the present. You can see a lifetime of new possibilities waiting to be born within the Abstraction. Make Plans to see the vision realized."
+    }
+  },
+  {
+    "name": "Realization",
+    "alternateName": "none",
+    "core": "Creation",
+    "subtric": "Shape",
+    "type": "minor",
+    "description": {
+      "short": "What you see is the truth.",
+      "long": "The formless given Shape. You have a Realization of truth, division, everything once unclear. Be sure it is your truth and not a reflection of what you hope to see."
+    }
+  },
+  {
+    "name": "Obstruction",
+    "alternateName": "none",
+    "core": "Creation",
+    "subtric": "Shadow",
+    "type": "minor",
+    "description": {
+      "short": "Roadblocks must be taken down.",
+      "long": "The road turns to Obstruction. Light turns to Shadow. Look at your choices. You made this road. It is time to leap over the roadblocks made for yourself. Reimagine the path forward."
+    }
+  },
+  {
+    "name": "Projection",
+    "alternateName": "none",
+    "core": "Creation",
+    "subtric": "Shadow",
+    "type": "minor",
+    "description": {
+      "short": "Illusions are enticing but not true.",
+      "long": "Light dances. Shadow answers. But dark gives context to light. You see from many angles; plan for what you see and don't fall for illusions created by subconscious Projection."
+    }
   }
 ]

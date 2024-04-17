@@ -9,9 +9,10 @@ const filePath = path.join(__dirname, 'tarot_cards.json');
 exports.tarotReading = () => {
   const tarotCards = readJsonFromFile(filePath);
   const twoCards = shuffleArrayAndDrawTwo(tarotCards);
-  var response = '';
+  var response =
+    'Think of something at the forefront of your mind. Something that occupies you. I will draw two cards. The first will tell you what is already inside you, what exists in the present. The second reveals what you must find. This represents your future. \nNow reveal your cards.\n\n';
   twoCards.forEach((tarotCard) => {
-    response += `${tarotCard.name},\n${tarotCard.shortDescription}\n\n`;
+    response += `||**${tarotCard.name}**\n${tarotCard.shortDescription} ${tarotCard.longDescription}||\n\n`;
   });
   return response;
 };
