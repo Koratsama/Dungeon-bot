@@ -1,0 +1,167 @@
+[
+  {
+    "name": "desire",
+    "alternateName": "The hand that reaches",
+    "core": "core",
+    "subtric": "none",
+    "type": "major",
+    "description": {
+      "short": "Yearning limits or upraises",
+      "long": "Absence and Abundance. Do not focus on what you do not have. Let desire motivate, not weigh you down with the unneeded ephemera of this world. Desire is movement. be bold."
+    }
+  },
+  {
+    "name": "Transition",
+    "alternateName": "The hand that turns",
+    "core": "core",
+    "subtric": "none",
+    "type": "major",
+    "description": {
+      "short": "Evolve with the shifting road",
+      "long": "Motion and Stagnation. Embrace Transition or risk falling behind the ever turning cycle of day and night. Resist and the wheel may crack sending you out of the order of things and deep into despair. Lean into the corners of the road."
+    }
+  },
+  {
+    "name": "Unity",
+    "alternateName": "The hand that bonds",
+    "core": "core",
+    "subtric": "none",
+    "type": "major",
+    "description": {
+      "short": "Finding self within or without",
+      "long": "Harmony and Dissonance. Being a part of a group can transform the singular. Unity can elevate or consume. Explore the messiness of convergence. Sing in unison but find your own notes."
+    }
+  },
+  {
+    "name": "Mystery",
+    "alternateName": "The hand that masks",
+    "core": "core",
+    "subtric": "none",
+    "type": "major",
+    "description": {
+      "short": "Making your own answers",
+      "long": "Wonder and Expectation. Pieces of the puzzles you seek to solve wait for discovery. Strike out on your own to unmask the truths beyond. Gather the pieces and discover. Embrace the challenge."
+    }
+  },
+  {
+    "name": "Creation",
+    "alternateName": "The hand that forges",
+    "core": "core",
+    "subtric": "none",
+    "type": "major",
+    "description": {
+      "short": "Becoming a conduit for growth.",
+      "long": "Shape and Shadow. New ideas and new forces are given form. Your potential is at its peak, do not let yourself be stifled by fear of failure or of being an imposter. Embrace the universal and help the multitudes grow through your acts."
+    }
+  },
+  {
+    "name": "Power",
+    "alternateName": "The hand that gives",
+    "core": "core",
+    "subtric": "none",
+    "type": "major",
+    "description": {
+      "short": "Manifesting will for good or ill.",
+      "long": "Control and Chaos. The very substance of change. Use but do not make demands of power, it can also move what is wanted further from you. The best laid plans can always turn to dust."
+    }
+  },
+  {
+    "name": "Purity",
+    "alternateName": "The hand that cuts",
+    "core": "core",
+    "subtric": "none",
+    "type": "major",
+    "description": {
+      "short": "Responsibility rests within yourself.",
+      "long": "Cure and Corruption. A personal set of scales that no one but you can tip in any one direction. Purity is not a binary. Remove the masks others have placed on you."
+    }
+  },
+  {
+    "name": "Oblivion",
+    "alternateName": "none",
+    "core": "Desire",
+    "subtric": "Absence",
+    "type": "minor",
+    "description": {
+      "short": "Nothingness is erasure and creation.",
+      "long": "Absence is a void one might wish to escape. Looking within can freeze one with fear. However, within Oblivion, there could be a path undiscovered. You are your own key."
+    }
+  },
+  {
+    "name": "Longing",
+    "alternateName": "none",
+    "core": "Desire",
+    "subtric": "Absence",
+    "type": "minor",
+    "description": {
+      "short": "Equilibrium between want and need.",
+      "long": "An awareness of Absence leads one to seek. But Longing can drive one to misery if searching the horizen leads one to ignore the foreground. Find equilibrium."
+    }
+  },
+  {
+    "name": "Burden",
+    "alternateName": "none",
+    "core": "Desire",
+    "subtric": "Abundance",
+    "type": "minor",
+    "description": {
+      "short": "The more you carry, the slower you move.",
+      "long": "How much can one hold? What good is security if it does not bring bliss? Abundance is also a Burden. A horde of riches to drown in. Lay down your excess. Simplify. Give."
+    }
+  },
+  {
+    "name": "Prosperity",
+    "alternateName": "none",
+    "core": "Desire",
+    "subtric": "Abundance",
+    "type": "minor",
+    "description": {
+      "short": "What is full today may empty tomorrow.",
+      "long": "Your table is full. You have achieved so much but must decide what to do with this Abundance. Prosperity is wonderful, but can be lost in an instant. Be smart with your wealth."
+    }
+  },
+  {
+    "name": "Nuture",
+    "alternateName": "none",
+    "core": "Purity",
+    "subtric": "Cure",
+    "type": "minor",
+    "description": {
+      "short": "Plant the seeds to sow tomorrow.",
+      "long": "A hand outstretched and a Cure offered in return. Alleviate suffering, allow another to thrive. Give a piece of yourself, but also Nurture a practice of protection of self."
+    }
+  },
+  {
+    "name": "Need",
+    "alternateName": "none",
+    "core": "Purity",
+    "subtric": "Cure",
+    "type": "minor",
+    "description": {
+      "short": "Acknowledge the lack within you.",
+      "long": "Need burns inside you, a star unborn. Marshal all your resources and search onwards for the Cure to this current suffering, but beware of becoming trapped by the pain."
+    }
+  },
+  {
+    "name": "Rise",
+    "alternateName": "none",
+    "core": "Purity",
+    "subtric": "Corruption",
+    "type": "minor",
+    "description": {
+      "short": "Greatness is possible.",
+      "long": "The journey can be the destination. A Rise can also be a fall, if one gives in to Corruption of the self. Trust the climb. Do not lose sight of yourself."
+    }
+  },
+  {
+    "name": "Ruin",
+    "alternateName": "none",
+    "core": "Purity",
+    "subtric": "Corruption",
+    "type": "minor",
+    "description": {
+      "short": "It is the fall that injures you.",
+      "long": "Everything declines. You walk through the heart of Ruin on all sides. All feels lost to Corruption. But walk on. There is a rebuilding after the collapse."
+    }
+  }
+]
