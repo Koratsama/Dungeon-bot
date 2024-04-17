@@ -3,8 +3,8 @@ exports.rollDice = (diceString) => {
   var [numDice, numSides] = diceString.split('d').map(Number);
   var resultString = '';
   // Validation: Ensure numSides is between 1 and 20
-  if (numSides < 1 || numSides > 20 || numDice < 1 || numDice > 20) {
-    console.log('Number of dice/sides must be between 1 and 20.');
+  if (numSides < 1 || numSides > 100 || numDice < 1 || numDice > 100) {
+    console.log('Number of sides must be between 1 and 100.');
     return resultString;
   }
 
@@ -24,7 +24,7 @@ exports.rollDice = (diceString) => {
   if (numDice === 1) {
     resultString = `Result: ${total}`;
   } else {
-    resultString = `Result: ${results.join(' + ')} = ${total}`;
+    resultString = `Result: ( ${results.join(' + ')} ) = ${total}`;
   }
 
   return resultString;

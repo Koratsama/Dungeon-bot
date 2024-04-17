@@ -1,0 +1,387 @@
+[
+  {
+    "name": "desire",
+    "alternateName": "The hand that reaches",
+    "core": "core",
+    "subtric": "none",
+    "type": "major",
+    "description": {
+      "short": "Yearning limits or upraises",
+      "long": "Absence and Abundance. Do not focus on what you do not have. Let desire motivate, not weigh you down with the unneeded ephemera of this world. Desire is movement. be bold."
+    }
+  },
+  {
+    "name": "Transition",
+    "alternateName": "The hand that turns",
+    "core": "core",
+    "subtric": "none",
+    "type": "major",
+    "description": {
+      "short": "Evolve with the shifting road",
+      "long": "Motion and Stagnation. Embrace Transition or risk falling behind the ever turning cycle of day and night. Resist and the wheel may crack sending you out of the order of things and deep into despair. Lean into the corners of the road."
+    }
+  },
+  {
+    "name": "Unity",
+    "alternateName": "The hand that bonds",
+    "core": "core",
+    "subtric": "none",
+    "type": "major",
+    "description": {
+      "short": "Finding self within or without",
+      "long": "Harmony and Dissonance. Being a part of a group can transform the singular. Unity can elevate or consume. Explore the messiness of convergence. Sing in unison but find your own notes."
+    }
+  },
+  {
+    "name": "Mystery",
+    "alternateName": "The hand that masks",
+    "core": "core",
+    "subtric": "none",
+    "type": "major",
+    "description": {
+      "short": "Making your own answers",
+      "long": "Wonder and Expectation. Pieces of the puzzles you seek to solve wait for discovery. Strike out on your own to unmask the truths beyond. Gather the pieces and discover. Embrace the challenge."
+    }
+  },
+  {
+    "name": "Creation",
+    "alternateName": "The hand that forges",
+    "core": "core",
+    "subtric": "none",
+    "type": "major",
+    "description": {
+      "short": "Becoming a conduit for growth.",
+      "long": "Shape and Shadow. New ideas and new forces are given form. Your potential is at its peak, do not let yourself be stifled by fear of failure or of being an imposter. Embrace the universal and help the multitudes grow through your acts."
+    }
+  },
+  {
+    "name": "Power",
+    "alternateName": "The hand that gives",
+    "core": "core",
+    "subtric": "none",
+    "type": "major",
+    "description": {
+      "short": "Manifesting will for good or ill.",
+      "long": "Control and Chaos. The very substance of change. Use but do not make demands of power, it can also move what is wanted further from you. The best laid plans can always turn to dust."
+    }
+  },
+  {
+    "name": "Purity",
+    "alternateName": "The hand that cuts",
+    "core": "core",
+    "subtric": "none",
+    "type": "major",
+    "description": {
+      "short": "Responsibility rests within yourself.",
+      "long": "Cure and Corruption. A personal set of scales that no one but you can tip in any one direction. Purity is not a binary. Remove the masks others have placed on you."
+    }
+  },
+  {
+    "name": "Oblivion",
+    "alternateName": "none",
+    "core": "Desire",
+    "subtric": "Absence",
+    "type": "minor",
+    "description": {
+      "short": "Nothingness is erasure and creation.",
+      "long": "Absence is a void one might wish to escape. Looking within can freeze one with fear. However, within Oblivion, there could be a path undiscovered. You are your own key."
+    }
+  },
+  {
+    "name": "Longing",
+    "alternateName": "none",
+    "core": "Desire",
+    "subtric": "Absence",
+    "type": "minor",
+    "description": {
+      "short": "Equilibrium between want and need.",
+      "long": "An awareness of Absence leads one to seek. But Longing can drive one to misery if searching the horizen leads one to ignore the foreground. Find equilibrium."
+    }
+  },
+  {
+    "name": "Burden",
+    "alternateName": "none",
+    "core": "Desire",
+    "subtric": "Abundance",
+    "type": "minor",
+    "description": {
+      "short": "The more you carry, the slower you move.",
+      "long": "How much can one hold? What good is security if it does not bring bliss? Abundance is also a Burden. A horde of riches to drown in. Lay down your excess. Simplify. Give."
+    }
+  },
+  {
+    "name": "Prosperity",
+    "alternateName": "none",
+    "core": "Desire",
+    "subtric": "Abundance",
+    "type": "minor",
+    "description": {
+      "short": "What is full today may empty tomorrow.",
+      "long": "Your table is full. You have achieved so much but must decide what to do with this Abundance. Prosperity is wonderful, but can be lost in an instant. Be smart with your wealth."
+    }
+  },
+  {
+    "name": "Nuture",
+    "alternateName": "none",
+    "core": "Purity",
+    "subtric": "Cure",
+    "type": "minor",
+    "description": {
+      "short": "Plant the seeds to sow tomorrow.",
+      "long": "A hand outstretched and a Cure offered in return. Alleviate suffering, allow another to thrive. Give a piece of yourself, but also Nurture a practice of protection of self."
+    }
+  },
+  {
+    "name": "Need",
+    "alternateName": "none",
+    "core": "Purity",
+    "subtric": "Cure",
+    "type": "minor",
+    "description": {
+      "short": "Acknowledge the lack within you.",
+      "long": "Need burns inside you, a star unborn. Marshal all your resources and search onwards for the Cure to this current suffering, but beware of becoming trapped by the pain."
+    }
+  },
+  {
+    "name": "Rise",
+    "alternateName": "none",
+    "core": "Purity",
+    "subtric": "Corruption",
+    "type": "minor",
+    "description": {
+      "short": "Greatness is possible.",
+      "long": "The journey can be the destination. A Rise can also be a fall, if one gives in to Corruption of the self. Trust the climb. Do not lose sight of yourself."
+    }
+  },
+  {
+    "name": "Ruin",
+    "alternateName": "none",
+    "core": "Purity",
+    "subtric": "Corruption",
+    "type": "minor",
+    "description": {
+      "short": "It is the fall that injures you.",
+      "long": "Everything declines. You walk through the heart of Ruin on all sides. All feels lost to Corruption. But walk on. There is a rebuilding after the collapse."
+    }
+  },
+  {
+    "name": "Strength",
+    "alternateName": "none",
+    "core": "Power",
+    "subtric": "Control",
+    "type": "minor",
+    "description": {
+      "short": "Shape and direct your surroundings.",
+      "long": "You use Strength to impose a new plan. You exert Control through intuition and the means at your disposal. The strong make themselves potential targets, include others int he process."
+    }
+  },
+  {
+    "name": "Intention",
+    "alternateName": "none",
+    "core": "Power",
+    "subtric": "Control",
+    "type": "minor",
+    "description": {
+      "short": "What do you want, and why?",
+      "long": "What will you do with the Control you wield? To what end are you working towards? What is the Intention of your actions? Without direction we cannot help but be misunderstood."
+    }
+  },
+  {
+    "name": "Form",
+    "alternateName": "none",
+    "core": "Power",
+    "subtric": "Chaos",
+    "type": "minor",
+    "description": {
+      "short": "Execute the plans you have made",
+      "long": "Within the storm of Chaos, a Form awaits to be discovered. You create the universe into being by freeing the figure of it from the block of stone. It is time to move on the plans you've been making."
+    }
+  },
+  {
+    "name": "Fracture",
+    "alternateName": "none",
+    "core": "Power",
+    "subtric": "Chaos",
+    "type": "minor",
+    "description": {
+      "short": "What you have can break apart.",
+      "long": "The center does not hold. You have given in to Chaos. Your plans begin to Fracture and drift. You are aimless. Fill your broken edges with gold and bear the pieces away."
+    }
+  },
+  {
+    "name": "Solidarity",
+    "alternateName": "none",
+    "core": "Unity",
+    "subtric": "Harmony",
+    "type": "minor",
+    "description": {
+      "short": "Strength within the collective.",
+      "long": "It often takes Solidarity within a group to achieve a goal. Allow yourself to find this Harmony with others so that you may attain your true purpose."
+    }
+  },
+  {
+    "name": "Solitude",
+    "alternateName": "none",
+    "core": "Unity",
+    "subtric": "Harmony",
+    "type": "minor",
+    "description": {
+      "short": "Personal truth may set others free.",
+      "long": "Being in Solitude can open the eyes. It can cause you to see the world of others in a new light. Find Harmony within yourself. Bring that truth back to the collective."
+    }
+  },
+  {
+    "name": "Disorder",
+    "alternateName": "none",
+    "core": "Unity",
+    "subtric": "Dissonance",
+    "type": "minor",
+    "description": {
+      "short": "It is time to push against order.",
+      "long": "Ignore the rules. Being a force of Disorder causes the universe to realign, to take the Dissonance, and make harmony with you. Kick against those that would quiet you."
+    }
+  },
+  {
+    "name": "Symmetry",
+    "alternateName": "none",
+    "core": "Unity",
+    "subtric": "Dissonance",
+    "type": "minor",
+    "description": {
+      "short": "There is always a third way.",
+      "long": "A coin spins in perfect Symmetry. What side it lands on is less important than making the guess. The Dissonance of taking a leap without seeing the landing is where the answer lies."
+    }
+  },
+  {
+    "name": "Inertia",
+    "alternateName": "none",
+    "core": "Transition",
+    "subtric": "Motion",
+    "type": "minor",
+    "description": {
+      "short": "Speed is exhilarating and tiring.",
+      "long": "When Motion becomes the norm, Inertia creeps in. Be careful to not overshoot your goal post or leave too many waves in your wake. It is easy to forget to slow down."
+    }
+  },
+  {
+    "name": "Momentum",
+    "alternateName": "none",
+    "core": "Transition",
+    "subtric": "Motion",
+    "type": "minor",
+    "description": {
+      "short": "Your choices are pushing you forward.",
+      "long": "You've exploded prospects and shot forward with Motion. There is no stopping your growing Momentum. At these speeds, it becomes easy to ignore others and their needs."
+    }
+  },
+  {
+    "name": "Direction",
+    "alternateName": "none",
+    "core": "Transition",
+    "subtric": "Stagnation",
+    "type": "minor",
+    "description": {
+      "short": "The time for debate is over.",
+      "long": "Avoid Stagnation. Point yourself in a singular Direction and go forth. This is your northstar. Singular thought may drive your process, but allow for deviations as needed."
+    }
+  },
+  {
+    "name": "Moor",
+    "alternateName": "none",
+    "core": "Transition",
+    "subtric": "Stagnation",
+    "type": "minor",
+    "description": {
+      "short": "Lack of motivation will stick you in place.",
+      "long": "Expectations Moor you in place. The weight of everything has buried you. Look around. This is an illusion of Stagnation. You can create multitudes with what you have."
+    }
+  },
+  {
+    "name": "Innocence",
+    "alternateName": "none",
+    "core": "Mystery",
+    "subtric": "Wonder",
+    "type": "minor",
+    "description": {
+      "short": "Weakness can be strength.",
+      "long": "Your Wonder pierces veils, brings insight, shatters propriety and conformity. Do not let anyone mistake your Innocence for weakness. Be a child. See with new eyes."
+    }
+  },
+  {
+    "name": "Inevitability",
+    "alternateName": "none",
+    "core": "Mystery",
+    "subtric": "Wonder",
+    "type": "minor",
+    "description": {
+      "short": "The ending isn't told yet.",
+      "long": "Wonder often gives way to weariness and inevitibility. Things feel like stops along a predetermined route. Get off at the right stop. Find a new ride. But do not be naive about the time you have."
+    }
+  },
+  {
+    "name": "Potential",
+    "alternateName": "none",
+    "core": "Mystery",
+    "subtric": "Expectation",
+    "type": "minor",
+    "description": {
+      "short": "Everything is within your grasp.",
+      "long": "Your Potential spreads out to seize the strings of fate. There is pressure to meet Expectation but the future is not locked in place. You have endless dreams, do not lose sight of them."
+    }
+  },
+  {
+    "name": "Perspective",
+    "alternateName": "none",
+    "core": "Mystery",
+    "subtric": "Expectation.",
+    "type": "minor",
+    "description": {
+      "short": "Look at things through a different door.",
+      "long": "The Expectation of choosing the right path has clouded your judement. You are holding up the line. Find Perspective. Doors go both ways. You have keys to them all."
+    }
+  },
+  {
+    "name": "Abstraction",
+    "alternateName": "none",
+    "core": "Creation",
+    "subtric": "Shape",
+    "type": "minor",
+    "description": {
+      "short": "The present causes what is next.",
+      "long": "The future often takes Shape from the present. You can see a lifetime of new possibilities waiting to be born within the Abstraction. Make Plans to see the vision realized."
+    }
+  },
+  {
+    "name": "Realization",
+    "alternateName": "none",
+    "core": "Creation",
+    "subtric": "Shape",
+    "type": "minor",
+    "description": {
+      "short": "What you see is the truth.",
+      "long": "The formless given Shape. You have a Realization of truth, division, everything once unclear. Be sure it is your truth and not a reflection of what you hope to see."
+    }
+  },
+  {
+    "name": "Obstruction",
+    "alternateName": "none",
+    "core": "Creation",
+    "subtric": "Shadow",
+    "type": "minor",
+    "description": {
+      "short": "Roadblocks must be taken down.",
+      "long": "The road turns to Obstruction. Light turns to Shadow. Look at your choices. You made this road. It is time to leap over the roadblocks made for yourself. Reimagine the path forward."
+    }
+  },
+  {
+    "name": "Projection",
+    "alternateName": "none",
+    "core": "Creation",
+    "subtric": "Shadow",
+    "type": "minor",
+    "description": {
+      "short": "Illusions are enticing but not true.",
+      "long": "Light dances. Shadow answers. But dark gives context to light. You see from many angles; plan for what you see and don't fall for illusions created by subconscious Projection."
+    }
+  }
+]
