@@ -18,8 +18,8 @@ discordClient.on('messageCreate', async (message) => {
     const userMsg = message?.content?.toLowerCase();
     if (userMsg.includes('dungeon help')) {
       message.reply(
-        `Need to roll dice? Just type \'roll\' followed by the number of dice and number of sides separated by the letter \'d\'. Just like this: \'Roll 2d8\'
-        \nHow about a tarot reading? Just say \'tarot please\'`
+        `1) Need to roll dice? Just type \'roll\' followed by the number of dice and number of sides separated by the letter \'d\'. Just like this: \'Roll 2d8\'
+        \n2) How about a tarot reading? Just say \'tarot please\'`
       );
     }
     if (userMsg.includes('roll') && userMsg.match(diceRegex)) {
