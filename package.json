@@ -2,10 +2,10 @@
   "name": "dungeon-bot",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "dungeon-bot.js",
   "type": "commonjs",
   "scripts": {
-    "start": "node ./src/index.js",
+    "start": "node ./src/dungeon-bot.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
