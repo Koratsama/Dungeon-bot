@@ -5,7 +5,7 @@
   "main": "dungeon-bot.js",
   "type": "commonjs",
   "scripts": {
-    "start": "node ./src/dungeon-bot.js",
+    "start": "node ./index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
