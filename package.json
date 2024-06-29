@@ -1,8 +1,8 @@
 {
   "name": "dungeon-bot",
   "version": "1.0.0",
-  "description": "",
-  "main": "dungeon-bot.js",
+  "description": "discord DnD bot",
+  "main": "index.js",
   "type": "commonjs",
   "scripts": {
     "start": "node ./index.js",
